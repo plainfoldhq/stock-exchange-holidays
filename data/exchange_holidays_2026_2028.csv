@@ -9,7 +9,7 @@ date,weekday,mic,exchange,status,close_local,timezone,holiday
 2026-01-01,Thu,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,New Year's Day
 2026-01-01,Thu,XTSE,Toronto Stock Exchange (TSX),closed,,America/Toronto,New Year's Day
 2026-01-02,Fri,XSWX,SIX Swiss Exchange,closed,,Europe/Zurich,Saint Berchtold's Day
-2026-01-02,Fri,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Year-end market holiday
+2026-01-02,Fri,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Market holiday (year-end break)
 2026-01-12,Mon,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Coming of Age Day
 2026-01-19,Mon,XNYS,New York Stock Exchange (NYSE),closed,,America/New_York,Martin Luther King Jr. Day
 2026-01-26,Mon,XASX,Australian Securities Exchange (ASX),closed,,Australia/Sydney,Australia Day
@@ -101,7 +101,7 @@ date,weekday,mic,exchange,status,close_local,timezone,holiday
 2026-12-31,Thu,XLON,London Stock Exchange (LSE),early_close,12:30,Europe/London,
 2026-12-31,Thu,XPAR,"Euronext (Paris, Amsterdam, Brussels)",early_close,14:05,Europe/Paris,
 2026-12-31,Thu,XSWX,SIX Swiss Exchange,closed,,Europe/Zurich,New Year's Eve
-2026-12-31,Thu,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Year-end market holiday
+2026-12-31,Thu,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Market holiday (year-end break)
 2027-01-01,Fri,XASX,Australian Securities Exchange (ASX),closed,,Australia/Sydney,New Year's Day
 2027-01-01,Fri,XETR,Xetra / Frankfurt Stock Exchange,closed,,Europe/Berlin,New Year's Day
 2027-01-01,Fri,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,New Year's Day
@@ -193,10 +193,10 @@ date,weekday,mic,exchange,status,close_local,timezone,holiday
 2027-12-31,Fri,XLON,London Stock Exchange (LSE),early_close,12:30,Europe/London,
 2027-12-31,Fri,XPAR,"Euronext (Paris, Amsterdam, Brussels)",early_close,14:05,Europe/Paris,
 2027-12-31,Fri,XSWX,SIX Swiss Exchange,closed,,Europe/Zurich,New Year's Eve
-2027-12-31,Fri,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Year-end market holiday
+2027-12-31,Fri,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Market holiday (year-end break)
 2028-01-03,Mon,XASX,Australian Securities Exchange (ASX),closed,,Australia/Sydney,New Year's Day
 2028-01-03,Mon,XLON,London Stock Exchange (LSE),closed,,Europe/London,New Year's Day (observed)
-2028-01-03,Mon,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Year-end market holiday
+2028-01-03,Mon,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Market holiday (year-end break)
 2028-01-03,Mon,XTSE,Toronto Stock Exchange (TSX),closed,,America/Toronto,New Year's Day
 2028-01-10,Mon,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Coming of Age Day
 2028-01-17,Mon,XNYS,New York Stock Exchange (NYSE),closed,,America/New_York,Martin Luther King Jr. Day
