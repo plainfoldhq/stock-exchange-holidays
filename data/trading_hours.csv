@@ -1,0 +1,10 @@
+mic,exchange,timezone,open_local,close_local,lunch_break_start,lunch_break_end,trading_days_2026,trading_days_2027,trading_days_2028
+XNYS,New York Stock Exchange (NYSE),America/New_York,09:30,16:00,,,251,251,251
+XLON,London Stock Exchange (LSE),Europe/London,08:00,16:30,,,253,253,252
+XTSE,Toronto Stock Exchange (TSX),America/Toronto,09:30,16:00,,,251,251,250
+XETR,Xetra / Frankfurt Stock Exchange,Europe/Berlin,09:00,17:30,,,254,256,255
+XPAR,"Euronext (Paris, Amsterdam, Brussels)",Europe/Paris,09:00,17:30,,,256,258,255
+XTKS,Tokyo Stock Exchange (JPX),Asia/Tokyo,09:00,15:30,11:30,12:30,242,244,245
+XHKG,Hong Kong Stock Exchange (HKEX),Asia/Hong_Kong,09:30,16:00,12:00,13:00,247,248,246
+XASX,Australian Securities Exchange (ASX),Australia/Sydney,10:00,16:00,,,254,254,252
+XSWX,SIX Swiss Exchange,Europe/Zurich,09:00,17:30,,,251,254,252

@@ -1,0 +1,284 @@
+date,weekday,mic,exchange,status,close_local,timezone,holiday
+2026-01-01,Thu,XASX,Australian Securities Exchange (ASX),closed,,Australia/Sydney,New Year's Day
+2026-01-01,Thu,XETR,Xetra / Frankfurt Stock Exchange,closed,,Europe/Berlin,New Year's Day
+2026-01-01,Thu,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,New Year's Day
+2026-01-01,Thu,XLON,London Stock Exchange (LSE),closed,,Europe/London,New Year's Day
+2026-01-01,Thu,XNYS,New York Stock Exchange (NYSE),closed,,America/New_York,New Year's Day
+2026-01-01,Thu,XPAR,"Euronext (Paris, Amsterdam, Brussels)",closed,,Europe/Paris,New Year's Day
+2026-01-01,Thu,XSWX,SIX Swiss Exchange,closed,,Europe/Zurich,New Year's Day
+2026-01-01,Thu,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,New Year's Day
+2026-01-01,Thu,XTSE,Toronto Stock Exchange (TSX),closed,,America/Toronto,New Year's Day
+2026-01-02,Fri,XSWX,SIX Swiss Exchange,closed,,Europe/Zurich,Saint Berchtold's Day
+2026-01-02,Fri,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Year-end market holiday
+2026-01-12,Mon,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Coming of Age Day
+2026-01-19,Mon,XNYS,New York Stock Exchange (NYSE),closed,,America/New_York,Martin Luther King Jr. Day
+2026-01-26,Mon,XASX,Australian Securities Exchange (ASX),closed,,Australia/Sydney,Australia Day
+2026-02-11,Wed,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Foundation Day
+2026-02-16,Mon,XHKG,Hong Kong Stock Exchange (HKEX),early_close,12:00,Asia/Hong_Kong,
+2026-02-16,Mon,XNYS,New York Stock Exchange (NYSE),closed,,America/New_York,Washington's Birthday
+2026-02-16,Mon,XTSE,Toronto Stock Exchange (TSX),closed,,America/Toronto,Family Day
+2026-02-17,Tue,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,Chinese New Year
+2026-02-18,Wed,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,The second day of Chinese New Year
+2026-02-19,Thu,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,The third day of Chinese New Year
+2026-02-23,Mon,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Emperor's Birthday
+2026-03-20,Fri,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Vernal Equinox Day
+2026-04-03,Fri,XASX,Australian Securities Exchange (ASX),closed,,Australia/Sydney,Good Friday
+2026-04-03,Fri,XETR,Xetra / Frankfurt Stock Exchange,closed,,Europe/Berlin,Good Friday
+2026-04-03,Fri,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,Good Friday
+2026-04-03,Fri,XLON,London Stock Exchange (LSE),closed,,Europe/London,Good Friday
+2026-04-03,Fri,XNYS,New York Stock Exchange (NYSE),closed,,America/New_York,Good Friday
+2026-04-03,Fri,XPAR,"Euronext (Paris, Amsterdam, Brussels)",closed,,Europe/Paris,Good Friday
+2026-04-03,Fri,XSWX,SIX Swiss Exchange,closed,,Europe/Zurich,Good Friday
+2026-04-03,Fri,XTSE,Toronto Stock Exchange (TSX),closed,,America/Toronto,Good Friday
+2026-04-06,Mon,XASX,Australian Securities Exchange (ASX),closed,,Australia/Sydney,Easter Monday
+2026-04-06,Mon,XETR,Xetra / Frankfurt Stock Exchange,closed,,Europe/Berlin,Easter Monday
+2026-04-06,Mon,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,The day following Tomb-Sweeping Day
+2026-04-06,Mon,XLON,London Stock Exchange (LSE),closed,,Europe/London,Easter Monday
+2026-04-06,Mon,XPAR,"Euronext (Paris, Amsterdam, Brussels)",closed,,Europe/Paris,Easter Monday
+2026-04-06,Mon,XSWX,SIX Swiss Exchange,closed,,Europe/Zurich,Easter Monday
+2026-04-07,Tue,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,The day following Easter Monday
+2026-04-29,Wed,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Showa Day
+2026-05-01,Fri,XETR,Xetra / Frankfurt Stock Exchange,closed,,Europe/Berlin,Labor Day
+2026-05-01,Fri,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,Labor Day
+2026-05-01,Fri,XPAR,"Euronext (Paris, Amsterdam, Brussels)",closed,,Europe/Paris,Labor Day
+2026-05-01,Fri,XSWX,SIX Swiss Exchange,closed,,Europe/Zurich,Labor Day
+2026-05-04,Mon,XLON,London Stock Exchange (LSE),closed,,Europe/London,May Day
+2026-05-04,Mon,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Greenery Day
+2026-05-05,Tue,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Children's Day
+2026-05-06,Wed,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Substitute Holiday
+2026-05-14,Thu,XSWX,SIX Swiss Exchange,closed,,Europe/Zurich,Ascension Day
+2026-05-18,Mon,XTSE,Toronto Stock Exchange (TSX),closed,,America/Toronto,Victoria Day
+2026-05-25,Mon,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,The day following the Buddha's Birthday
+2026-05-25,Mon,XLON,London Stock Exchange (LSE),closed,,Europe/London,Spring Bank Holiday
+2026-05-25,Mon,XNYS,New York Stock Exchange (NYSE),closed,,America/New_York,Memorial Day
+2026-05-25,Mon,XSWX,SIX Swiss Exchange,closed,,Europe/Zurich,Pentecost Monday
+2026-06-08,Mon,XASX,Australian Securities Exchange (ASX),closed,,Australia/Sydney,King's Birthday
+2026-06-19,Fri,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,Dragon Boat Festival
+2026-06-19,Fri,XNYS,New York Stock Exchange (NYSE),closed,,America/New_York,Juneteenth National Independence Day
+2026-07-01,Wed,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,Hong Kong S.A.R. Establishment Day
+2026-07-01,Wed,XTSE,Toronto Stock Exchange (TSX),closed,,America/Toronto,Canada Day
+2026-07-03,Fri,XNYS,New York Stock Exchange (NYSE),closed,,America/New_York,Independence Day (observed)
+2026-07-20,Mon,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Marine Day
+2026-08-03,Mon,XTSE,Toronto Stock Exchange (TSX),closed,,America/Toronto,Civic Holiday
+2026-08-11,Tue,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Mountain Day
+2026-08-31,Mon,XLON,London Stock Exchange (LSE),closed,,Europe/London,Late Summer Bank Holiday
+2026-09-07,Mon,XNYS,New York Stock Exchange (NYSE),closed,,America/New_York,Labor Day
+2026-09-07,Mon,XTSE,Toronto Stock Exchange (TSX),closed,,America/Toronto,Labor Day
+2026-09-21,Mon,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Respect for the Aged Day
+2026-09-22,Tue,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,National Holiday
+2026-09-23,Wed,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Autumnal Equinox Day
+2026-10-01,Thu,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,National Day
+2026-10-12,Mon,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Sports Day
+2026-10-12,Mon,XTSE,Toronto Stock Exchange (TSX),closed,,America/Toronto,Thanksgiving Day
+2026-10-19,Mon,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,The day following Double Ninth Festival
+2026-11-03,Tue,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Culture Day
+2026-11-23,Mon,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Labor Thanksgiving Day
+2026-11-26,Thu,XNYS,New York Stock Exchange (NYSE),closed,,America/New_York,Thanksgiving Day
+2026-11-27,Fri,XNYS,New York Stock Exchange (NYSE),early_close,13:00,America/New_York,
+2026-12-24,Thu,XASX,Australian Securities Exchange (ASX),early_close,14:10,Australia/Sydney,
+2026-12-24,Thu,XETR,Xetra / Frankfurt Stock Exchange,closed,,Europe/Berlin,Christmas Eve
+2026-12-24,Thu,XHKG,Hong Kong Stock Exchange (HKEX),early_close,12:00,Asia/Hong_Kong,
+2026-12-24,Thu,XLON,London Stock Exchange (LSE),early_close,12:30,Europe/London,
+2026-12-24,Thu,XNYS,New York Stock Exchange (NYSE),early_close,13:00,America/New_York,
+2026-12-24,Thu,XPAR,"Euronext (Paris, Amsterdam, Brussels)",early_close,14:05,Europe/Paris,
+2026-12-24,Thu,XSWX,SIX Swiss Exchange,closed,,Europe/Zurich,Christmas Eve
+2026-12-24,Thu,XTSE,Toronto Stock Exchange (TSX),early_close,13:00,America/Toronto,
+2026-12-25,Fri,XASX,Australian Securities Exchange (ASX),closed,,Australia/Sydney,Christmas Day
+2026-12-25,Fri,XETR,Xetra / Frankfurt Stock Exchange,closed,,Europe/Berlin,Christmas Day
+2026-12-25,Fri,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,Christmas Day
+2026-12-25,Fri,XLON,London Stock Exchange (LSE),closed,,Europe/London,Christmas Day
+2026-12-25,Fri,XNYS,New York Stock Exchange (NYSE),closed,,America/New_York,Christmas Day
+2026-12-25,Fri,XPAR,"Euronext (Paris, Amsterdam, Brussels)",closed,,Europe/Paris,Christmas Day
+2026-12-25,Fri,XSWX,SIX Swiss Exchange,closed,,Europe/Zurich,Christmas Day
+2026-12-25,Fri,XTSE,Toronto Stock Exchange (TSX),closed,,America/Toronto,Christmas Day
+2026-12-28,Mon,XASX,Australian Securities Exchange (ASX),closed,,Australia/Sydney,Boxing Day
+2026-12-28,Mon,XLON,London Stock Exchange (LSE),closed,,Europe/London,Boxing Day (observed)
+2026-12-28,Mon,XTSE,Toronto Stock Exchange (TSX),closed,,America/Toronto,Boxing Day
+2026-12-30,Wed,XETR,Xetra / Frankfurt Stock Exchange,early_close,14:00,Europe/Berlin,
+2026-12-31,Thu,XASX,Australian Securities Exchange (ASX),early_close,14:10,Australia/Sydney,
+2026-12-31,Thu,XETR,Xetra / Frankfurt Stock Exchange,closed,,Europe/Berlin,New Year's Eve
+2026-12-31,Thu,XHKG,Hong Kong Stock Exchange (HKEX),early_close,12:00,Asia/Hong_Kong,
+2026-12-31,Thu,XLON,London Stock Exchange (LSE),early_close,12:30,Europe/London,
+2026-12-31,Thu,XPAR,"Euronext (Paris, Amsterdam, Brussels)",early_close,14:05,Europe/Paris,
+2026-12-31,Thu,XSWX,SIX Swiss Exchange,closed,,Europe/Zurich,New Year's Eve
+2026-12-31,Thu,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Year-end market holiday
+2027-01-01,Fri,XASX,Australian Securities Exchange (ASX),closed,,Australia/Sydney,New Year's Day
+2027-01-01,Fri,XETR,Xetra / Frankfurt Stock Exchange,closed,,Europe/Berlin,New Year's Day
+2027-01-01,Fri,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,New Year's Day
+2027-01-01,Fri,XLON,London Stock Exchange (LSE),closed,,Europe/London,New Year's Day
+2027-01-01,Fri,XNYS,New York Stock Exchange (NYSE),closed,,America/New_York,New Year's Day
+2027-01-01,Fri,XPAR,"Euronext (Paris, Amsterdam, Brussels)",closed,,Europe/Paris,New Year's Day
+2027-01-01,Fri,XSWX,SIX Swiss Exchange,closed,,Europe/Zurich,New Year's Day
+2027-01-01,Fri,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,New Year's Day
+2027-01-01,Fri,XTSE,Toronto Stock Exchange (TSX),closed,,America/Toronto,New Year's Day
+2027-01-11,Mon,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Coming of Age Day
+2027-01-18,Mon,XNYS,New York Stock Exchange (NYSE),closed,,America/New_York,Martin Luther King Jr. Day
+2027-01-26,Tue,XASX,Australian Securities Exchange (ASX),closed,,Australia/Sydney,Australia Day
+2027-02-05,Fri,XHKG,Hong Kong Stock Exchange (HKEX),early_close,12:00,Asia/Hong_Kong,
+2027-02-08,Mon,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,The third day of Chinese New Year
+2027-02-09,Tue,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,The fourth day of Chinese New Year
+2027-02-11,Thu,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Foundation Day
+2027-02-15,Mon,XNYS,New York Stock Exchange (NYSE),closed,,America/New_York,Washington's Birthday
+2027-02-15,Mon,XTSE,Toronto Stock Exchange (TSX),closed,,America/Toronto,Family Day
+2027-02-23,Tue,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Emperor's Birthday
+2027-03-22,Mon,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Substitute Holiday
+2027-03-26,Fri,XASX,Australian Securities Exchange (ASX),closed,,Australia/Sydney,Good Friday
+2027-03-26,Fri,XETR,Xetra / Frankfurt Stock Exchange,closed,,Europe/Berlin,Good Friday
+2027-03-26,Fri,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,Good Friday
+2027-03-26,Fri,XLON,London Stock Exchange (LSE),closed,,Europe/London,Good Friday
+2027-03-26,Fri,XNYS,New York Stock Exchange (NYSE),closed,,America/New_York,Good Friday
+2027-03-26,Fri,XPAR,"Euronext (Paris, Amsterdam, Brussels)",closed,,Europe/Paris,Good Friday
+2027-03-26,Fri,XSWX,SIX Swiss Exchange,closed,,Europe/Zurich,Good Friday
+2027-03-26,Fri,XTSE,Toronto Stock Exchange (TSX),closed,,America/Toronto,Good Friday
+2027-03-29,Mon,XASX,Australian Securities Exchange (ASX),closed,,Australia/Sydney,Easter Monday
+2027-03-29,Mon,XETR,Xetra / Frankfurt Stock Exchange,closed,,Europe/Berlin,Easter Monday
+2027-03-29,Mon,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,Easter Monday
+2027-03-29,Mon,XLON,London Stock Exchange (LSE),closed,,Europe/London,Easter Monday
+2027-03-29,Mon,XPAR,"Euronext (Paris, Amsterdam, Brussels)",closed,,Europe/Paris,Easter Monday
+2027-03-29,Mon,XSWX,SIX Swiss Exchange,closed,,Europe/Zurich,Easter Monday
+2027-04-05,Mon,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,Tomb-Sweeping Day
+2027-04-29,Thu,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Showa Day
+2027-05-03,Mon,XLON,London Stock Exchange (LSE),closed,,Europe/London,May Day
+2027-05-03,Mon,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Constitution Day
+2027-05-04,Tue,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Greenery Day
+2027-05-05,Wed,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Children's Day
+2027-05-06,Thu,XSWX,SIX Swiss Exchange,closed,,Europe/Zurich,Ascension Day
+2027-05-13,Thu,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,The Buddha's Birthday
+2027-05-17,Mon,XSWX,SIX Swiss Exchange,closed,,Europe/Zurich,Pentecost Monday
+2027-05-24,Mon,XTSE,Toronto Stock Exchange (TSX),closed,,America/Toronto,Victoria Day
+2027-05-31,Mon,XLON,London Stock Exchange (LSE),closed,,Europe/London,Spring Bank Holiday
+2027-05-31,Mon,XNYS,New York Stock Exchange (NYSE),closed,,America/New_York,Memorial Day
+2027-06-09,Wed,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,Dragon Boat Festival
+2027-06-14,Mon,XASX,Australian Securities Exchange (ASX),closed,,Australia/Sydney,King's Birthday
+2027-06-18,Fri,XNYS,New York Stock Exchange (NYSE),closed,,America/New_York,Juneteenth National Independence Day (observed)
+2027-07-01,Thu,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,Hong Kong S.A.R. Establishment Day
+2027-07-01,Thu,XTSE,Toronto Stock Exchange (TSX),closed,,America/Toronto,Canada Day
+2027-07-05,Mon,XNYS,New York Stock Exchange (NYSE),closed,,America/New_York,Independence Day (observed)
+2027-07-19,Mon,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Marine Day
+2027-08-02,Mon,XTSE,Toronto Stock Exchange (TSX),closed,,America/Toronto,Civic Holiday
+2027-08-11,Wed,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Mountain Day
+2027-08-30,Mon,XLON,London Stock Exchange (LSE),closed,,Europe/London,Late Summer Bank Holiday
+2027-09-06,Mon,XNYS,New York Stock Exchange (NYSE),closed,,America/New_York,Labor Day
+2027-09-06,Mon,XTSE,Toronto Stock Exchange (TSX),closed,,America/Toronto,Labor Day
+2027-09-16,Thu,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,The Day following Mid-Autumn Festival
+2027-09-20,Mon,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Respect for the Aged Day
+2027-09-23,Thu,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Autumnal Equinox Day
+2027-10-01,Fri,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,National Day
+2027-10-08,Fri,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,Double Ninth Festival
+2027-10-11,Mon,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Sports Day
+2027-10-11,Mon,XTSE,Toronto Stock Exchange (TSX),closed,,America/Toronto,Thanksgiving Day
+2027-11-03,Wed,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Culture Day
+2027-11-23,Tue,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Labor Thanksgiving Day
+2027-11-25,Thu,XNYS,New York Stock Exchange (NYSE),closed,,America/New_York,Thanksgiving Day
+2027-11-26,Fri,XNYS,New York Stock Exchange (NYSE),early_close,13:00,America/New_York,
+2027-12-24,Fri,XASX,Australian Securities Exchange (ASX),early_close,14:10,Australia/Sydney,
+2027-12-24,Fri,XETR,Xetra / Frankfurt Stock Exchange,closed,,Europe/Berlin,Christmas Eve
+2027-12-24,Fri,XHKG,Hong Kong Stock Exchange (HKEX),early_close,12:00,Asia/Hong_Kong,
+2027-12-24,Fri,XLON,London Stock Exchange (LSE),early_close,12:30,Europe/London,
+2027-12-24,Fri,XNYS,New York Stock Exchange (NYSE),closed,,America/New_York,Christmas Day (observed)
+2027-12-24,Fri,XPAR,"Euronext (Paris, Amsterdam, Brussels)",early_close,14:05,Europe/Paris,
+2027-12-24,Fri,XSWX,SIX Swiss Exchange,closed,,Europe/Zurich,Christmas Eve
+2027-12-24,Fri,XTSE,Toronto Stock Exchange (TSX),early_close,13:00,America/Toronto,
+2027-12-27,Mon,XASX,Australian Securities Exchange (ASX),closed,,Australia/Sydney,Christmas Day
+2027-12-27,Mon,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,The first weekday after Christmas Day
+2027-12-27,Mon,XLON,London Stock Exchange (LSE),closed,,Europe/London,Christmas Day (observed)
+2027-12-27,Mon,XTSE,Toronto Stock Exchange (TSX),closed,,America/Toronto,Christmas Day
+2027-12-28,Tue,XASX,Australian Securities Exchange (ASX),closed,,Australia/Sydney,Boxing Day
+2027-12-28,Tue,XLON,London Stock Exchange (LSE),closed,,Europe/London,Boxing Day (observed)
+2027-12-28,Tue,XTSE,Toronto Stock Exchange (TSX),closed,,America/Toronto,Boxing Day
+2027-12-30,Thu,XETR,Xetra / Frankfurt Stock Exchange,early_close,14:00,Europe/Berlin,
+2027-12-31,Fri,XASX,Australian Securities Exchange (ASX),early_close,14:10,Australia/Sydney,
+2027-12-31,Fri,XETR,Xetra / Frankfurt Stock Exchange,closed,,Europe/Berlin,New Year's Eve
+2027-12-31,Fri,XHKG,Hong Kong Stock Exchange (HKEX),early_close,12:00,Asia/Hong_Kong,
+2027-12-31,Fri,XLON,London Stock Exchange (LSE),early_close,12:30,Europe/London,
+2027-12-31,Fri,XPAR,"Euronext (Paris, Amsterdam, Brussels)",early_close,14:05,Europe/Paris,
+2027-12-31,Fri,XSWX,SIX Swiss Exchange,closed,,Europe/Zurich,New Year's Eve
+2027-12-31,Fri,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Year-end market holiday
+2028-01-03,Mon,XASX,Australian Securities Exchange (ASX),closed,,Australia/Sydney,New Year's Day
+2028-01-03,Mon,XLON,London Stock Exchange (LSE),closed,,Europe/London,New Year's Day (observed)
+2028-01-03,Mon,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Year-end market holiday
+2028-01-03,Mon,XTSE,Toronto Stock Exchange (TSX),closed,,America/Toronto,New Year's Day
+2028-01-10,Mon,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Coming of Age Day
+2028-01-17,Mon,XNYS,New York Stock Exchange (NYSE),closed,,America/New_York,Martin Luther King Jr. Day
+2028-01-25,Tue,XHKG,Hong Kong Stock Exchange (HKEX),early_close,12:00,Asia/Hong_Kong,
+2028-01-26,Wed,XASX,Australian Securities Exchange (ASX),closed,,Australia/Sydney,Australia Day
+2028-01-26,Wed,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,Chinese New Year
+2028-01-27,Thu,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,The second day of Chinese New Year
+2028-01-28,Fri,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,The third day of Chinese New Year
+2028-02-11,Fri,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Foundation Day
+2028-02-21,Mon,XNYS,New York Stock Exchange (NYSE),closed,,America/New_York,Washington's Birthday
+2028-02-21,Mon,XTSE,Toronto Stock Exchange (TSX),closed,,America/Toronto,Family Day
+2028-02-23,Wed,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Emperor's Birthday
+2028-03-20,Mon,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Vernal Equinox Day
+2028-04-04,Tue,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,Tomb-Sweeping Day
+2028-04-14,Fri,XASX,Australian Securities Exchange (ASX),closed,,Australia/Sydney,Good Friday
+2028-04-14,Fri,XETR,Xetra / Frankfurt Stock Exchange,closed,,Europe/Berlin,Good Friday
+2028-04-14,Fri,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,Good Friday
+2028-04-14,Fri,XLON,London Stock Exchange (LSE),closed,,Europe/London,Good Friday
+2028-04-14,Fri,XNYS,New York Stock Exchange (NYSE),closed,,America/New_York,Good Friday
+2028-04-14,Fri,XPAR,"Euronext (Paris, Amsterdam, Brussels)",closed,,Europe/Paris,Good Friday
+2028-04-14,Fri,XSWX,SIX Swiss Exchange,closed,,Europe/Zurich,Good Friday
+2028-04-14,Fri,XTSE,Toronto Stock Exchange (TSX),closed,,America/Toronto,Good Friday
+2028-04-17,Mon,XASX,Australian Securities Exchange (ASX),closed,,Australia/Sydney,Easter Monday
+2028-04-17,Mon,XETR,Xetra / Frankfurt Stock Exchange,closed,,Europe/Berlin,Easter Monday
+2028-04-17,Mon,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,Easter Monday
+2028-04-17,Mon,XLON,London Stock Exchange (LSE),closed,,Europe/London,Easter Monday
+2028-04-17,Mon,XPAR,"Euronext (Paris, Amsterdam, Brussels)",closed,,Europe/Paris,Easter Monday
+2028-04-17,Mon,XSWX,SIX Swiss Exchange,closed,,Europe/Zurich,Easter Monday
+2028-04-25,Tue,XASX,Australian Securities Exchange (ASX),closed,,Australia/Sydney,ANZAC Day
+2028-05-01,Mon,XETR,Xetra / Frankfurt Stock Exchange,closed,,Europe/Berlin,Labor Day
+2028-05-01,Mon,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,Labor Day
+2028-05-01,Mon,XLON,London Stock Exchange (LSE),closed,,Europe/London,May Day
+2028-05-01,Mon,XPAR,"Euronext (Paris, Amsterdam, Brussels)",closed,,Europe/Paris,Labor Day
+2028-05-01,Mon,XSWX,SIX Swiss Exchange,closed,,Europe/Zurich,Labor Day
+2028-05-02,Tue,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,The Buddha's Birthday
+2028-05-03,Wed,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Constitution Day
+2028-05-04,Thu,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Greenery Day
+2028-05-05,Fri,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Children's Day
+2028-05-22,Mon,XTSE,Toronto Stock Exchange (TSX),closed,,America/Toronto,Victoria Day
+2028-05-25,Thu,XSWX,SIX Swiss Exchange,closed,,Europe/Zurich,Ascension Day
+2028-05-29,Mon,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,The day following Dragon Boat Festival
+2028-05-29,Mon,XLON,London Stock Exchange (LSE),closed,,Europe/London,Spring Bank Holiday
+2028-05-29,Mon,XNYS,New York Stock Exchange (NYSE),closed,,America/New_York,Memorial Day
+2028-06-05,Mon,XSWX,SIX Swiss Exchange,closed,,Europe/Zurich,Pentecost Monday
+2028-06-12,Mon,XASX,Australian Securities Exchange (ASX),closed,,Australia/Sydney,King's Birthday
+2028-06-19,Mon,XNYS,New York Stock Exchange (NYSE),closed,,America/New_York,Juneteenth National Independence Day
+2028-07-03,Mon,XNYS,New York Stock Exchange (NYSE),early_close,13:00,America/New_York,
+2028-07-03,Mon,XTSE,Toronto Stock Exchange (TSX),closed,,America/Toronto,Canada Day
+2028-07-04,Tue,XNYS,New York Stock Exchange (NYSE),closed,,America/New_York,Independence Day
+2028-07-17,Mon,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Marine Day
+2028-08-01,Tue,XSWX,SIX Swiss Exchange,closed,,Europe/Zurich,National Day
+2028-08-07,Mon,XTSE,Toronto Stock Exchange (TSX),closed,,America/Toronto,Civic Holiday
+2028-08-11,Fri,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Mountain Day
+2028-08-28,Mon,XLON,London Stock Exchange (LSE),closed,,Europe/London,Late Summer Bank Holiday
+2028-09-04,Mon,XNYS,New York Stock Exchange (NYSE),closed,,America/New_York,Labor Day
+2028-09-04,Mon,XTSE,Toronto Stock Exchange (TSX),closed,,America/Toronto,Labor Day
+2028-09-18,Mon,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Respect for the Aged Day
+2028-09-22,Fri,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Autumnal Equinox Day
+2028-10-02,Mon,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,The day following National Day
+2028-10-04,Wed,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,The Day following Mid-Autumn Festival
+2028-10-09,Mon,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Sports Day
+2028-10-09,Mon,XTSE,Toronto Stock Exchange (TSX),closed,,America/Toronto,Thanksgiving Day
+2028-10-26,Thu,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,Double Ninth Festival
+2028-11-03,Fri,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Culture Day
+2028-11-23,Thu,XNYS,New York Stock Exchange (NYSE),closed,,America/New_York,Thanksgiving Day
+2028-11-23,Thu,XTKS,Tokyo Stock Exchange (JPX),closed,,Asia/Tokyo,Labor Thanksgiving Day
+2028-11-24,Fri,XNYS,New York Stock Exchange (NYSE),early_close,13:00,America/New_York,
+2028-12-22,Fri,XLON,London Stock Exchange (LSE),early_close,12:30,Europe/London,
+2028-12-25,Mon,XASX,Australian Securities Exchange (ASX),closed,,Australia/Sydney,Christmas Day
+2028-12-25,Mon,XETR,Xetra / Frankfurt Stock Exchange,closed,,Europe/Berlin,Christmas Day
+2028-12-25,Mon,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,Christmas Day
+2028-12-25,Mon,XLON,London Stock Exchange (LSE),closed,,Europe/London,Christmas Day
+2028-12-25,Mon,XNYS,New York Stock Exchange (NYSE),closed,,America/New_York,Christmas Day
+2028-12-25,Mon,XPAR,"Euronext (Paris, Amsterdam, Brussels)",closed,,Europe/Paris,Christmas Day
+2028-12-25,Mon,XSWX,SIX Swiss Exchange,closed,,Europe/Zurich,Christmas Day
+2028-12-25,Mon,XTSE,Toronto Stock Exchange (TSX),closed,,America/Toronto,Christmas Day
+2028-12-26,Tue,XASX,Australian Securities Exchange (ASX),closed,,Australia/Sydney,Boxing Day
+2028-12-26,Tue,XETR,Xetra / Frankfurt Stock Exchange,closed,,Europe/Berlin,Second Day of Christmas
+2028-12-26,Tue,XHKG,Hong Kong Stock Exchange (HKEX),closed,,Asia/Hong_Kong,The first weekday after Christmas Day
+2028-12-26,Tue,XLON,London Stock Exchange (LSE),closed,,Europe/London,Boxing Day
+2028-12-26,Tue,XPAR,"Euronext (Paris, Amsterdam, Brussels)",closed,,Europe/Paris,Saint Stephen's Day
+2028-12-26,Tue,XSWX,SIX Swiss Exchange,closed,,Europe/Zurich,Saint Stephen's Day
+2028-12-26,Tue,XTSE,Toronto Stock Exchange (TSX),closed,,America/Toronto,Boxing Day
+2028-12-29,Fri,XETR,Xetra / Frankfurt Stock Exchange,early_close,14:00,Europe/Berlin,
+2028-12-29,Fri,XLON,London Stock Exchange (LSE),early_close,12:30,Europe/London,
