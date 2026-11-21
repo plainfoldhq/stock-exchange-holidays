@@ -30,6 +30,21 @@ closed = {(r["mic"], r["date"]) for r in csv.DictReader(open("data/exchange_holi
 ("XLON", "2026-12-28") in closed  # True: Boxing Day (observed)
 ```
 
+Load it straight from GitHub without cloning:
+
+```python
+import pandas as pd
+url = "https://raw.githubusercontent.com/plainfoldhq/stock-exchange-holidays/main/data/exchange_holidays_2026_2028.csv"
+df = pd.read_csv(url, dtype=str)
+df[(df.mic == "XTKS") & (df.status == "closed")]  # Tokyo closures
+```
+
+```sql
+-- DuckDB
+SELECT date, exchange, holiday FROM read_csv_auto('https://raw.githubusercontent.com/plainfoldhq/stock-exchange-holidays/main/data/exchange_holidays_2026_2028.csv')
+WHERE status = 'closed' AND date = '2026-12-28';
+```
+
 ## How the data is made and checked
 
 - Closure days, early closes and hours: exported from the open-source [`exchange_calendars`](https://github.com/gerrymanoim/exchange_calendars) package (Apache-2.0).
