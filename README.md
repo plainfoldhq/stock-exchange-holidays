@@ -82,6 +82,7 @@ For US business-day math (federal, NYSE and Federal Reserve calendars) use the f
 
 - [plainfoldhq/world-public-holidays](https://github.com/plainfoldhq/world-public-holidays): free CSV of public holidays for 26 countries and regions, 2026-2028, cross-checked against two independent implementations.
 - [plainfoldhq/fx-settlement-holidays](https://github.com/plainfoldhq/fx-settlement-holidays): FX settlement holidays (USD, EUR/TARGET2, GBP, JPY, AUD, NZD) and T+2 spot value dates, 2026-2028, checked against QuantLib.
+- [plainfoldhq/options-expiration-dates](https://github.com/plainfoldhq/options-expiration-dates): free CSV of options expiration dates 2000-2050 (monthly opex with NYSE holidays applied, quad witching, VIX settlement, IMM dates).
 - All Plainfold data packs in one yearly plan: [All-Access](https://buy.polar.sh/polar_cl_xydfuofU72fdp6xSOHFtihAuniUFagYOwR9zf2M03Gl).
 
 ## License
