@@ -17,7 +17,7 @@ etd.add_trading_days("XTKS", "2026-12-30", 1)  # datetime.date(2027, 1, 4): Toky
 etd.close_time("XNYS", "2026-11-27")          # '13:00'
 ```
 
-Install: `pip install "git+https://github.com/plainfoldhq/stock-exchange-holidays"` (a PyPI release is pending).
+Install: `pip install exchange-trading-days` (PyPI: https://pypi.org/project/exchange-trading-days/).
 
 ## Files
 

@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "exchange-trading-days"
-version = "0.1.0"
+version = "0.1.1"
 description = "Trading days, holidays and early closes for NYSE, LSE, TSX, Xetra, Euronext, Tokyo, HKEX, ASX and SIX (2026-2028). Standard library only."
 readme = "README.md"
 license = "MIT"

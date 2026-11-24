@@ -18,7 +18,7 @@ import csv
 import os
 from datetime import date, timedelta
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 __all__ = ["EXCHANGES", "YEARS", "NotCovered", "is_trading_day", "next_trading_day", "previous_trading_day",
            "add_trading_days", "trading_days_between", "close_time", "holidays"]
 
