@@ -6,6 +6,19 @@ NYSE (XNYS), London Stock Exchange (XLON), Toronto Stock Exchange (XTSE), Xetra 
 
 Readable tables, one page per exchange and year: **[plainfoldhq.github.io/stock-market-holidays](https://plainfoldhq.github.io/stock-market-holidays/)**. All nine exchanges side by side: [2026](https://plainfoldhq.github.io/stock-market-holidays/2026/), [2027](https://plainfoldhq.github.io/stock-market-holidays/2027/), [2028](https://plainfoldhq.github.io/stock-market-holidays/2028/).
 
+## Python package
+
+`exchange-trading-days` (standard library only) bundles these files:
+
+```python
+import exchange_trading_days as etd
+etd.is_trading_day("XLON", "2026-12-28")       # False: Boxing Day (observed)
+etd.add_trading_days("XTKS", "2026-12-30", 1)  # datetime.date(2027, 1, 4): Tokyo's year-end break
+etd.close_time("XNYS", "2026-11-27")          # '13:00'
+```
+
+Install: `pip install "git+https://github.com/plainfoldhq/stock-exchange-holidays"` (a PyPI release is pending).
+
 ## Files
 
 `data/exchange_holidays_2026_2028.csv`: one row per weekday on which an exchange is closed or closes early.
