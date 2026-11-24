@@ -57,6 +57,10 @@ WHERE status = 'closed' AND date = '2026-12-28';
 - Settlement/clearing holidays can differ from trading holidays. Hours exclude pre-opening and closing auctions.
 - Euronext Lisbon closes on the same days as Paris, Amsterdam and Brussels; its hours are one hour earlier in local time and are not in `trading_hours.csv`.
 
+## Full pack: 24 exchanges, 2000-2050
+
+The paid pack covers 24 exchanges (adds Mexico, B3, Euronext Dublin/Lisbon/Oslo, Borsa Italiana, Frankfurt, Madrid, Warsaw, Istanbul, Johannesburg, Korea and NZX) for every year 2000-2050 in which `exchange_calendars` and `holidays` agree on every weekday (930 exchange-years; the rest are listed as not covered, with the reason). It adds every trading session with local and UTC open/close, late opens, SQLite, JSON, .ics files, a tested PostgreSQL loader and a standard-library trading-day helper. $15: [buy on Polar](https://buy.polar.sh/polar_cl_8VwWMpQhsLCYXsPRdkmYGjbJzuzlHQB9Ul3GC3dlJW7) (checkout and tax by Polar, merchant of record).
+
 ## US calendars
 
 For US business-day math (federal, NYSE and Federal Reserve calendars) use the free [`usbizdays`](https://pypi.org/project/usbizdays/) Python package ([repo](https://github.com/plainfoldhq/us-federal-calendar)). Full US sets 1971-2050 and the calendar data bundle are linked from that repo.
