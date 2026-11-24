@@ -65,6 +65,12 @@ The paid pack covers 24 exchanges (adds Mexico, B3, Euronext Dublin/Lisbon/Oslo,
 
 For US business-day math (federal, NYSE and Federal Reserve calendars) use the free [`usbizdays`](https://pypi.org/project/usbizdays/) Python package ([repo](https://github.com/plainfoldhq/us-federal-calendar)). Full US sets 1971-2050 and the calendar data bundle are linked from that repo.
 
+## Related
+
+- [plainfoldhq/world-public-holidays](https://github.com/plainfoldhq/world-public-holidays): free CSV of public holidays for 20 countries and regions, 2026-2028, cross-checked against two independent implementations.
+- [plainfoldhq/fx-settlement-holidays](https://github.com/plainfoldhq/fx-settlement-holidays): FX settlement holidays (USD, EUR/TARGET2, GBP, JPY, AUD, NZD) and T+2 spot value dates, 2026-2028, checked against QuantLib.
+- All Plainfold data packs in one yearly plan: [All-Access](https://buy.polar.sh/polar_cl_xydfuofU72fdp6xSOHFtihAuniUFagYOwR9zf2M03Gl).
+
 ## License
 
 Data in `data/`: CC0 1.0 (public domain). Tests: MIT. See LICENSE.
