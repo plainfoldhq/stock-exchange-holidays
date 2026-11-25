@@ -72,7 +72,7 @@ WHERE status = 'closed' AND date = '2026-12-28';
 
 ## Full pack: 24 exchanges, 2000-2050
 
-The paid pack covers 24 exchanges (adds Mexico, B3, Euronext Dublin/Lisbon/Oslo, Borsa Italiana, Frankfurt, Madrid, Warsaw, Istanbul, Johannesburg, Korea and NZX) for every year 2000-2050 in which `exchange_calendars` and `holidays` agree on every weekday (930 exchange-years; the rest are listed as not covered, with the reason). It adds every trading session with local and UTC open/close, late opens, SQLite, JSON, .ics files, a tested PostgreSQL loader and a standard-library trading-day helper. $15: [buy on Polar](https://buy.polar.sh/polar_cl_8VwWMpQhsLCYXsPRdkmYGjbJzuzlHQB9Ul3GC3dlJW7) (checkout and tax by Polar, merchant of record).
+The paid pack covers 24 exchanges (adds Mexico, B3, Euronext Dublin/Lisbon/Oslo, Borsa Italiana, Frankfurt, Madrid, Warsaw, Istanbul, Johannesburg, Korea and NZX) for every year 2000-2050 in which `exchange_calendars` and `holidays` agree on every weekday (930 exchange-years; the rest are listed as not covered, with the reason). It adds every trading session with local and UTC open/close, late opens, SQLite, JSON, .ics files, a tested PostgreSQL loader and a standard-library trading-day helper. $15: [buy on Polar](https://buy.polar.sh/polar_cl_8VwWMpQhsLCYXsPRdkmYGjbJzuzlHQB9Ul3GC3dlJW7?utm_source=readme&utm_medium=readme&utm_campaign=G&utm_content=stock-exchange-holidays) (checkout and tax by Polar, merchant of record).
 
 ## US calendars
 
@@ -83,7 +83,9 @@ For US business-day math (federal, NYSE and Federal Reserve calendars) use the f
 - [plainfoldhq/world-public-holidays](https://github.com/plainfoldhq/world-public-holidays): free CSV of public holidays for 26 countries and regions, 2026-2028, cross-checked against two independent implementations.
 - [plainfoldhq/fx-settlement-holidays](https://github.com/plainfoldhq/fx-settlement-holidays): FX settlement holidays (USD, EUR/TARGET2, GBP, JPY, AUD, NZD) and T+2 spot value dates, 2026-2028, checked against QuantLib.
 - [plainfoldhq/options-expiration-dates](https://github.com/plainfoldhq/options-expiration-dates): free CSV of options expiration dates 2000-2050 (monthly opex with NYSE holidays applied, quad witching, VIX settlement, IMM dates).
-- All Plainfold data packs in one yearly plan: [All-Access](https://buy.polar.sh/polar_cl_xydfuofU72fdp6xSOHFtihAuniUFagYOwR9zf2M03Gl).
+- [plainfoldhq/dbt-business-days](https://github.com/plainfoldhq/dbt-business-days): free dbt package with holiday calendars and business-day macros for SQL (14 calendars incl. settlement currencies, 2026-2028).
+- [plainfoldhq/business-day-conventions](https://github.com/plainfoldhq/business-day-conventions): free test vectors for business-day roll conventions and day-count fractions, recomputed with QuantLib on every push.
+- All Plainfold data packs in one yearly plan: [All-Access](https://buy.polar.sh/polar_cl_xydfuofU72fdp6xSOHFtihAuniUFagYOwR9zf2M03Gl?utm_source=readme&utm_medium=readme&utm_campaign=ALLACCESS&utm_content=stock-exchange-holidays).
 
 ## License
 
