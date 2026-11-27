@@ -87,6 +87,8 @@ For US business-day math (federal, NYSE and Federal Reserve calendars) use the f
 - [plainfoldhq/business-day-conventions](https://github.com/plainfoldhq/business-day-conventions): free test vectors for business-day roll conventions and day-count fractions, recomputed with QuantLib on every push.
 - [plainfoldhq/pandas-holiday-calendars](https://github.com/plainfoldhq/pandas-holiday-calendars): free pandas holiday calendars (NYSE, Federal Reserve, US federal 2000-2050; England and Wales, Euro T2 2026-2028) for `CustomBusinessDay`, `bdate_range` and `numpy.busday_count`; `pip install pandas-holiday-calendars`.
 - All Plainfold data packs in one yearly plan: [All-Access](https://buy.polar.sh/polar_cl_xydfuofU72fdp6xSOHFtihAuniUFagYOwR9zf2M03Gl?utm_source=readme&utm_medium=readme&utm_campaign=ALLACCESS&utm_content=stock-exchange-holidays).
+- [plainfoldhq/plainfold-calendars-mcp](https://github.com/plainfoldhq/plainfold-calendars-mcp): free MCP server that lets AI assistants (Claude, other MCP clients) check business days, market holidays and FX spot dates offline, built on this package; `pip install plainfold-calendars-mcp`.
+
 
 ## License
 
