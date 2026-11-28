@@ -6,6 +6,10 @@ NYSE (XNYS), London Stock Exchange (XLON), Toronto Stock Exchange (XTSE), Xetra 
 
 Readable tables, one page per exchange and year: **[plainfoldhq.github.io/stock-market-holidays](https://plainfoldhq.github.io/stock-market-holidays/)**. All nine exchanges side by side: [2026](https://plainfoldhq.github.io/stock-market-holidays/2026/), [2027](https://plainfoldhq.github.io/stock-market-holidays/2027/), [2028](https://plainfoldhq.github.io/stock-market-holidays/2028/).
 
+## Guide
+
+- [Stock exchange holidays and trading days in Python](https://github.com/plainfoldhq/stock-exchange-holidays/blob/main/docs/stock-exchange-trading-days-python.md): is it open, next trading day, counting trading days, early closes
+
 ## Python package
 
 `exchange-trading-days` (standard library only) bundles these files:
